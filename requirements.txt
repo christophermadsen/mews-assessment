@@ -1,0 +1,10 @@
+holidays
+matplotlib
+seaborn
+numpy
+pandas
+shap
+lightgbm
+scipy
+scikit-learn
+tqdm
